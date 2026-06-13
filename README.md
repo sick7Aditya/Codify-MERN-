@@ -113,7 +113,6 @@ http://localhost:3000
 
 ## Future Enhancements
 
-- Online Code Compiler
 - Coding Challenges
 - Contest System
 - User Profiles
@@ -121,13 +120,6 @@ http://localhost:3000
 - Discussion Forums
 - Leaderboards
 
-## Screenshots
-
-Add screenshots of your application here.
-
-```md
-![Home Page](screenshots/home.png)
-```
 
 ## Contributing
 
@@ -154,12 +146,3 @@ git push origin feature-name
 
 5. Open a Pull Request
 
-## Author
-
-Aditya
-
-GitHub: https://github.com/sick7Aditya
-
-## License
-
-This project is licensed under the MIT License.
